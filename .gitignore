@@ -1,0 +1,6 @@
+# OS artifacts
+.DS_Store
+._*
+
+# dev artifacts
+/node_modules/
