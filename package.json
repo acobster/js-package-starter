@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/sitecrafting/js-package-starter.git"
+    "url": "git@github.com/acobster/js-package-starter.git"
   },
   "author": "Coby Tamayo",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/sitecrafting/js-package-starter#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/acobster/js-package-starter#readme",
   "devDependencies": {
     "grunt-cli": "^0.1.13",
     "grunt": "^0.4.5",
